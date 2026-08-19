@@ -1,0 +1,30 @@
+{
+  "version": "2.1.0",
+  "partCount": 19,
+  "sourceFiles": 35,
+  "bundleSha256": "5c31ff0283ae0f234131af5de64649285c14eae0354641aa9825552c4065b9b4",
+  "uncompressedSha256": "ccec755c4949a6eec86b201ea7e29d0ca37625d1b25608506eacda854b0ab51e",
+  "compressedBytes": 38967,
+  "uncompressedBytes": 163747,
+  "mapping": [
+    "p00",
+    "p01.0",
+    "p01.1",
+    "p01.2",
+    "p01.3",
+    "p02",
+    "p03",
+    "p04",
+    "p05",
+    "p06.0",
+    "p06.1",
+    "p06.2",
+    "p06.3",
+    "p07",
+    "p08.0",
+    "p08.1",
+    "p08.2",
+    "p08.3",
+    "p09"
+  ]
+}
